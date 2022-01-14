@@ -6,5 +6,5 @@ We will use various predictive models to see how accurate they are in detecting 
 ## Goals
 
 Create a Neural Network and compare the accuracy to our best classifier.
-Understand common mistaked made with imbalanced datasets.
+Understand common mistakes made with imbalanced datasets.
 
