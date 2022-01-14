@@ -8,3 +8,6 @@ We will use various predictive models to see how accurate they are in detecting 
 Create a Neural Network and compare the accuracy to our best classifier.
 Understand common mistakes made with imbalanced datasets.
 
+## Distribution of Fraud vs Non-Fraud
+
+![1]
