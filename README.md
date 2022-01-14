@@ -11,3 +11,5 @@ Understand common mistakes made with imbalanced datasets.
 ## Distribution of Fraud vs Non-Fraud
 
 ![1](distribution_decided.png)
+
+![2](distribution4.png)
